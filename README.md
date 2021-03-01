@@ -78,3 +78,9 @@ ENTRYPOINT ["nginx", "-g", "daemon off;"]
 % docker run --rm -it -p 8080:80 react-nginx 
 
 ```
+
+### POSTMAN API documentation
+
+```swagger codegen
+https://documenter.getpostman.com/view/10646178/TWDdjE92
+```
